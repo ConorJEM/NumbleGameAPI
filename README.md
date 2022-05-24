@@ -1,6 +1,6 @@
 
 Check out the project at https://conorjem.github.io/NumbleFront/ Backend is hosted on microsoft azure.
-
+(NOT CURRENTLY HOSTED)
 # Project Code
 The API is comprised of 4 methods. Their functions and repsonse bodies are outlined here. (Note: For HARD mode, the GET method '/game/{id}/rhs' will only return the 403 forbidden error.)
 
